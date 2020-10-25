@@ -12,18 +12,11 @@ The Controller takes care of the code logic and validaton on codebase
 The Services primarily talks to the database
 while the Router stores the route
 
-
-# Running the tests
-you can run the test with mocha
-npm i mocha@3.0.0(i used the old version because of the tap dependency)
-npm i expect@1.20.1
-npm i supertest
-
 # Deployment
 could simply be deployed on heroku using git ssh keys or otherwise
 you can pick any other platform you want
 
-# Name
+# Author
 Odetayo Ayodeji
 
 
